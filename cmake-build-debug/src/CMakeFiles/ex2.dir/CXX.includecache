@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/b_box.h
+
+../include/shape.h
+iostream
+-
+b_box.h
+../include/b_box.h
+
+../include/triangle.h
+b_box.h
+../include/b_box.h
+iostream
+-
+shape.h
+../include/shape.h
+cmath
+-
+
+D:/SkillboxProjects/OOP/ex2/src/triangle.cpp
+triangle.h
+D:/SkillboxProjects/OOP/ex2/src/triangle.h
+

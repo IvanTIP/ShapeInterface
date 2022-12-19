@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/SkillboxProjects/OOP/ex2/circle.cpp
+circle.h
+D:/SkillboxProjects/OOP/ex2/circle.h
+
+D:/SkillboxProjects/OOP/ex2/circle.h
+
+D:/SkillboxProjects/OOP/ex2/main.cpp
+iostream
+-
+
