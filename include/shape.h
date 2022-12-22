@@ -10,7 +10,7 @@ public:
 
     virtual std::string type() = 0;
 
-    void printParams(Shape* shape);
+    static void printParams(Shape* shape);
 
     virtual ~Shape () = default;
 };

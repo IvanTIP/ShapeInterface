@@ -8,6 +8,24 @@
 
 ../include/b_box.h
 
+../include/circle.h
+b_box.h
+../include/b_box.h
+iostream
+-
+shape.h
+../include/shape.h
+cmath
+-
+
+../include/rectangle.h
+b_box.h
+../include/b_box.h
+iostream
+-
+shape.h
+../include/shape.h
+
 ../include/shape.h
 iostream
 -
@@ -23,6 +41,30 @@ shape.h
 ../include/shape.h
 cmath
 -
+
+D:/SkillboxProjects/OOP/ex2/src/circle.cpp
+circle.h
+D:/SkillboxProjects/OOP/ex2/src/circle.h
+
+D:/SkillboxProjects/OOP/ex2/src/main.cpp
+iostream
+-
+circle.h
+D:/SkillboxProjects/OOP/ex2/src/circle.h
+triangle.h
+D:/SkillboxProjects/OOP/ex2/src/triangle.h
+rectangle.h
+D:/SkillboxProjects/OOP/ex2/src/rectangle.h
+shape.h
+D:/SkillboxProjects/OOP/ex2/src/shape.h
+
+D:/SkillboxProjects/OOP/ex2/src/rectangle.cpp
+rectangle.h
+D:/SkillboxProjects/OOP/ex2/src/rectangle.h
+
+D:/SkillboxProjects/OOP/ex2/src/shape.cpp
+shape.h
+D:/SkillboxProjects/OOP/ex2/src/shape.h
 
 D:/SkillboxProjects/OOP/ex2/src/triangle.cpp
 triangle.h
